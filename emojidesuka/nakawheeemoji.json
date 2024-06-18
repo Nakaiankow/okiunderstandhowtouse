@@ -1,0 +1,25 @@
+{
+    "name": "nakawheeemoji",
+    "version": "90billion",
+    "description": "haikonnnichiwa-",
+    "credit": "nakaiankow",
+    "iconURL": "",
+    "emojis": [
+        {
+            "shortcode": "owarikomaki",
+            "imageURL": "owarikomaki.png",
+            "aliases": [
+            "owari"
+            ]
+        },
+        {
+            "shortcode": "iseshima",
+            "imageURL": "iseshima.png",
+            "aliases": [
+            "iize",
+            "ii",
+            "yes"
+            ]
+        }
+    ]
+}
