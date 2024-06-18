@@ -7,14 +7,14 @@
     "emojis": [
         {
             "shortcode": "owarikomaki",
-            "imageURL": "owarikomaki.png",
+            "imageURL": "https://raw.githubusercontent.com/Nakaiankow/okiunderstandhowtouse/main/emojidesuka/owarikomaki.png",
             "aliases": [
             "owari"
             ]
         },
         {
             "shortcode": "iseshima",
-            "imageURL": "iseshima.png",
+            "imageURL": "https://raw.githubusercontent.com/Nakaiankow/okiunderstandhowtouse/main/emojidesuka/iseshima.png",
             "aliases": [
             "iize",
             "ii",
